@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is harita file
-=======
-this is harish
->>>>>>> master
+I am harish
