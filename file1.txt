@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-I am inkulu
-=======
 I am haritha from bjp office
->>>>>>> master
+
